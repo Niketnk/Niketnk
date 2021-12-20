@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niketnk
+- 👋 Hi, This is Niket Mishra
 - 👀 I’m interested in app Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Google
